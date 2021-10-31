@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648751034961",
+    "project_id": "maxflutterchat-d3b0b",
+    "storage_bucket": "maxflutterchat-d3b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648751034961:android:ef1ae059b95815d4987e70",
+        "android_client_info": {
+          "package_name": "com.example.imagefirebaseupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648751034961-2o8bac8nm6n1jilef0kcb04bf4antvq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq2dJCOU2f8F-WYPQW7IwsLxr_6X9cylE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648751034961-2o8bac8nm6n1jilef0kcb04bf4antvq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
